@@ -4,6 +4,7 @@ Created on Mon Mar 11 16:38:06 2024
 
 @author: goconnor
 """
+#intended GUI to be developed
 
 from tkinter import *
 
