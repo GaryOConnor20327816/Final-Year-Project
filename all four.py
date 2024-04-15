@@ -4,6 +4,7 @@ Created on Wed Mar 13 17:15:18 2024
 
 @author: goconnor
 """
+#below is for the channels on attenuator 
 
 from tkinter import *
 import requests
